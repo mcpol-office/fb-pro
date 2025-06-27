@@ -17,7 +17,7 @@ Developed by Easy Studio & Mcpol Studio, **Fast Builder+** (**Fb-pro**)
 - Data backup and recovery
 - Automatic update mechanism
 - **Music Import via Command**:  
-  Users can quickly import music files through a dedicated command, making audio management and playback convenient. Usage example:
+  Users can quickly import music files through a dedicated command, making audio management and playback convenient. Usage mid file example:
 
   ```shell
   /music import <file path or URL>
